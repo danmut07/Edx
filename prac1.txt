@@ -6,3 +6,13 @@
 THis is a practice file oh.
 </body>
 </html>
+
+
+<html>
+<head>
+<title> My Pract 2 </title>
+</head>
+<body>
+Some other cool practice stuff
+</body>
+</html>
